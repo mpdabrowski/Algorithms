@@ -34,8 +34,3 @@ class MergeSort:
             j += 1
 
         return B
-
-
-arr = [5, 4, 1, 8, 7, 2, 6, 3]
-
-print(MergeSort().sort(arr))
